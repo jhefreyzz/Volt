@@ -3,7 +3,7 @@ Polls App built with Vue and Phoenix.
 
 ## Schema
 The app will consist of four table:
-![alt text](https://github.com/jhefreyzz/Volt/blob/master/Schema%20diagram.png "App schema diagram")
+![alt text](https://github.com/jhefreyzz/Volt/blob/master/Schema%20Diagram.png "App schema diagram")
 
 ## Tech Stack
 
